@@ -13,3 +13,5 @@ function App() {
 }
 
 export default App;
+
+// Fiz só a cloangem não elaborei o exercício. -> Ver gabarito: https://app.betrybe.com/course/front-end/react/react-router/solutions#exercicios-de-fixacao
